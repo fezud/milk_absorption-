@@ -1,5 +1,3 @@
-from json import load
-import pandas as pd
 import os
 from openpyxl import Workbook, load_workbook
 from scipy.optimize import curve_fit
